@@ -1,0 +1,74 @@
+abstrak;ringkasan;-
+absensi;-;ketidakhadiran
+agresif;bernafsu menyerang;-
+balad;kota;-
+bangkis;-;bersin
+belati;pisau tajam;-
+cengkang;kulit telor;-
+caos;-;menjaga
+cilap;kedip;-
+daku;aku;-
+dampal;kaki;-
+diam;-;tidak bersuara
+ego;diri pribadi;-
+ekstrak;sari;-
+endas;kepala;-
+familia;keluarga;-
+fertilisasi;pembuahan;-
+forsir;-;memaksakan
+gaji;upah;-
+gajih;lemak;-
+gegetun;-;menyesal sekali
+hajis;gerak hati;-
+haleluya;puji Tuhan;-
+hanyut;-;terbawa air
+ikhwan;teman;-
+ilmu;kepandaian tertentu;-
+impas;-;imbang
+jadwal;daftar acara;-
+jagat;alam;-
+jumpa;-;bertemu
+kaca;muka;-
+keraman;pemberontak;-
+kisat;-;kering
+lab;laboratorium;-
+lambar;alas;-
+lorah;katrol;-
+maaf;ampun;-
+matan;naskah asli;-
+mik;mikrofon;-
+nadir;pengawas;-
+negasi;kata sangkalan;-
+ngenyek;-;merendahkan
+odol;pasta gigi;-
+oktagon;segi delapan;-
+omnibus;bus;-
+pagina;halaman buku;-
+pamit;-;mohon diri
+peci;songkok;-
+qamar;bulan;-
+qasar;pemendakan salat;-
+qiam;-;berdiri(shalat)
+raga;tubuh;-
+rambun;hujan es;-
+rasan;-;berunding rahasia
+sadariah;baju rompi;-
+saing;taring;-
+sambut;-;terima
+tageh;tagih;-
+takma;jalinan tali;-
+tandang;-;bertamu
+udam;suram;-
+uktab;burung rajawali;-
+ulas;-;kain penutup
+viol;biola;-
+violin;biola kecil;-
+verba;kata kerja;-
+watt;satuan listrik;-
+wijik;-;mencuci tangan
+wisma;kantor;-
+xilem;jaringan kayu;-
+xilografi;seni ukir kayu;-
+yuda;perang;-
+zirnikh;berangan;-
+zalir;gas;-
